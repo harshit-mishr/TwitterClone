@@ -13,6 +13,6 @@ Tweeting: Users can post tweets, including text, images and view tweets from oth
 Following: Users can follow other users to see their tweets on their timeline and see new content.
 
 Technologies Used
-The Twitter clone is built using a combination of HTML, CSS, JavaScript and to store in recoil user and tweet information. The application is designed to be mobile-responsive and accessible on a variety of devices.
+The Twitter clone is built using a combination of HTML, CSS, JavaScript, React Js and to store in recoil user and tweet information. The application is designed to be mobile-responsive and accessible on a variety of devices.
 
 
